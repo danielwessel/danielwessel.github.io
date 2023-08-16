@@ -16,11 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a mathematician based in Munich, with research interests in constructive mathematics, proof theory, and point-free topology.
+I am a mathematician based in Munich, with research interests in constructive maths, proof theory, and point-free topology.
 
-I have completed a PhD in Trento, and held postdoc positions in Verona and Munich. Currently, I am taking time off academia that is devoted to care work.
+I studied in Berlin, Munich, Trento, and Verona, where I obtained a PhD and carried out postdoctoral work. Currently, I am taking time off academia that is devoted to care work.
 
-In the academic year 2023/24 I will be fellow at the Alfried Krupp Institute for Advanced Study. 
+In the academic year 2023/24 I will be fellow at the Alfried Krupp Institute for Advanced Study, 
+aiming to reignite research on Gentzen's *Nachlass*.
 
 Reach out to me through daniel.wessel@univr.it
 
