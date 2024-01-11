@@ -13,7 +13,7 @@ nav_order: 5
 <h4> Philosophy of Mathematics </h4>
 
 <pr>
-Seminar course to be held at the University of Greifswald during the winter term 2023/24. 
+Seminar course held at the University of Greifswald in the winter term 2023/24. 
 See <a href="https://his.uni-greifswald.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=65359&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung">here</a> for a course description (in German). </pr>
 
 <br>

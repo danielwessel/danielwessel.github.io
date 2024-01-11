@@ -16,12 +16,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a mathematician based in Munich, with research interests in constructive maths, proof theory, and point-free topology.
+Hi there! Thank you for visiting this website.
 
-I studied in Berlin, Munich, Trento, and Verona, where I obtained a PhD and carried out postdoctoral work. Currently, I am taking time off academia that is devoted to care work.
+I am a mathematician based in Munich, with research interests in constructive maths, point-free topology, and proof theory.
+
+Currently, I am fellow at the <a href="https://www.wiko-greifswald.de/fellows/alfried-krupp-fellows-programm/fellows-finden/2023-2024/misselbeck-wessel-daniel-phd/" target="_blank">Alfried Krupp Institute for Advanced Study</a>, 
+and guest lecturer at the University of Greifswald's Faculty of Arts and Humanities.
+
+<!--I studied in Berlin, Munich, Trento, and Verona, where I obtained a PhD and carried out postdoctoral work. Currently, I am taking time off academia that is devoted to care work.
 
 In the academic year 2023/24 I will be fellow at the Alfried Krupp Institute for Advanced Study, 
-aiming to reignite research on Gentzen's *Nachlass*.
+aiming to reignite research on Gentzen's *Nachlass*.-->
 
 Reach out to me through daniel.wessel@univr.it
 
