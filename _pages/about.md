@@ -20,15 +20,18 @@ Hi there! Thank you for visiting this website.
 
 I am a mathematician based in Munich, with research interests in constructive maths, point-free topology, and proof theory.
 
-Currently, I am fellow at the <a href="https://www.wiko-greifswald.de/fellows/alfried-krupp-fellows-programm/fellows-finden/2023-2024/misselbeck-wessel-daniel-phd/" target="_blank">Alfried Krupp Institute for Advanced Study</a>, 
+Currently, I'm Postdoc at the <a href="https://www.mathematik.uni-muenchen.de/~wessel/" target="_blank">Mathematical Institute of LMU</a>.
+In 2023/24 I was fellow at the <a href="https://www.wiko-greifswald.de/fellows/alfried-krupp-fellows-programm/fellows-finden/2023-2024/misselbeck-wessel-daniel-phd/" target="_blank">Alfried Krupp Institute for Advanced Study</a>, 
 and guest lecturer at the University of Greifswald's Faculty of Arts and Humanities.
+
+
 
 <!--I studied in Berlin, Munich, Trento, and Verona, where I obtained a PhD and carried out postdoctoral work. Currently, I am taking time off academia that is devoted to care work.
 
 In the academic year 2023/24 I will be fellow at the Alfried Krupp Institute for Advanced Study, 
 aiming to reignite research on Gentzen's *Nachlass*.-->
 
-Reach out to me through daniel.wessel@univr.it
+Reach out to me through wessel@math.lmu.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

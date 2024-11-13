@@ -8,6 +8,8 @@ nav_order: 5
 ---
 
 
+
+
 <br>
 
 <h4> Philosophy of Mathematics </h4>
@@ -17,7 +19,6 @@ Seminar course held at the University of Greifswald in the winter term 2023/24.
 See <a href="https://his.uni-greifswald.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=65359&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung">here</a> for a course description (in German). </pr>
 
 <br>
-
 
 <h4> Advanced Course in Foundations of Mathematics </h4>
 
@@ -29,4 +30,13 @@ See <a href="https://his.uni-greifswald.de/qisserver/rds?state=verpublish&status
 <h4> Constructive Algebra </h4>
 
 <pr> Lecture held as part of the 2018 autumn school <a href="https://www.mathematik.uni-muenchen.de/~schwicht/pc18.php">Proof & Computation</a> in Fischbachau. Course material is available <a href="https://github.com/danielwessel/pc18">here</a>.  </pr>
+
+
+<br>
+
+<h4> Calculus </h4>
+
+<pr>
+Exercise sessions for various <a href="https://www.mathematik.uni-muenchen.de/~wessel/lehre.php">calc classes</a> at LMU, for students of computer science, statistics, natural sciences, and pharmacy, held in 2020/21 and 2024/25. </pr>
+
 
