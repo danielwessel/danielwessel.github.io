@@ -12,24 +12,24 @@ permalink: /ABMV24/
 
 29&ndash;30 November 2024  
 
-Mathematisches Institut der LMU München  
-Theresienstraße 39, Raum B 349 
+LMU Munich: Department of Mathematics  
+Theresienstraße 39, Room B 349 
 
 <br>
 
-<h3> Schedule </h3>
+<h3> Programme </h3>
 
 <br>
 
 **Thursday, 28 November**
 
-19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome dinner at *Café Puck* (Türkenstraße 33)
+19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome dinner at <a href="https://cafe-puck.de/"> Café Puck</a>, Türkenstraße 33
 
 <br>
 
 **Friday, 29 November**
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Speaker**: *Title*
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
@@ -43,7 +43,7 @@ hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at *Los Faroles* (Nordendstraße 26)
+19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
 
 <br>
 
@@ -146,7 +146,7 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 	
 Angemeldet haben sich bisher:
 
-Vraussichtlich mit Vortrag
+Voraussichtlich mit Vortrag
 ==========================
 
 Ingo Blechschmidt.  Modal operators for a constructive account of
@@ -219,6 +219,6 @@ minimal impact; the absence of the exchange rule introduces
 significant and nontrivial distinctions.  This is a joint work
 with Tarmo Uustalu and Cheng-Syuan Wan.
 	
-	
+https://bit.ly/3AENbXg
 	
  --->
