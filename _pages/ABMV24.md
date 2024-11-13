@@ -13,7 +13,7 @@ permalink: /ABMV24/
 29&ndash;30 November 2024  
 
 Mathematisches Institut der LMU München  
-Theresienstraße 39, Room B 349 
+Theresienstraße 39, Raum B 349 
 
 <br>
 
@@ -64,6 +64,13 @@ hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 	
 <br>
 
+**Ingo Blechschmidt** (Augsburg/Padova)  
+*Modal operators for a constructive account of quasi-well-orderings*
+
+<pr> tba </pr>
+
+<br>
+
 **Giulio Fellin** (University of Brescia)  
 *Conservation for nuclei over substructural entailment relations*
 
@@ -89,11 +96,51 @@ We show how an ordering of specific universes may lead to a sort of ordinals. Af
 
 <br>
 
+**Elio La Rosa** (MCMP)  
+*An intuitionistic epsilon calculus*
+
+<pr> tba </pr>
+
+<br>
+
+**Borja Sierra Miranda** (University of Bern)  
+*Cut elimination for a non-wellfounded system for the master modality*
+
+<pr>
+In [1], we provided a method for eliminating cuts in non-wellfounded proofs with a local-progress condition, these being the simplest kind of non-wellfounded proofs. The method consisted of splitting the proof into nicely behaved fragments. This paper extends our method to proofs based on simple trace conditions. The main idea is to split the system with the trace condition into infinitely many local-progress calculi that together are equivalent to the original trace-based system. This provides a cut-elimination method using only basic tools of structural proof theory and corecursion, which is needed due to working in a non-wellfounded setting. We will employ our method to obtain syntactic cut-elimination for K+, a system of modal logic with the master modality. </pr>
+
+[1]: Borja Sierra Miranda, Thomas Studer and Lukas Zenger. "Coalgebraic Proof Translations of Non-Wellfounded Proofs". In Agata Ciabattoni, David Gabelaia and Igor Sedlár (eds). (2024) Advances in Modal Logic, Vol. 15. College Publications.
+
+
+<br>
+
+**Valentin Müller** (University of Bern)  
+*Higher-Level Natural Deduction and Subformula Property for Kreisel-Putnam Logic*
+
+<pr>
+We introduce a new natural deduction system for Kreisel-Putnam logic. Our system is based on Schroeder-Heister's calculus of higher-level rules, an extension of ordinary natural deduction in which not only formulas, but also rules can act as assumptions that may be discharged in the course of a derivation. We will establish a normalization theorem, i.e., we will show that every deduction in our system can be converted into a deduction without "detours". The method used for this is new and might also be applied to other non-classical logics. As a consequence of this result, we will obtain an unrestricted subformula property and a separation theorem for our system. </pr>
+
+<br>
+
+**Thomas Studer** (University of Bern)  
+*Simplicial Models for Epistemic Logic*
+
+<pr>
+Simplicial models originated in distributed computing, serving as a tool to study task solvability. They also provide a fresh view of the semantics of multi-agent epistemic logic. The main building blocks of simplicial models are local states of agents instead of (global) possible worlds. This change of perspective leads to novel logical operators and makes new applications possible. In this talk, we will provide an introduction to simplicial models and present recent developments. </pr>
+
+<br>
+
 <h3> Accommodation </h3>
 	
 <a href="https://www.pension-josefine.de"> Pension Josefine</a> (Nordendstraße 13)  
+<a href="https://www.antares-muenchen.de/"> Hotel Antares</a> (Amalienstraße 20)  
 
+<br>
+
+<h3> Local Organizers </h3>
 	
+<a href="https://www.mathematik.uni-muenchen.de/~schwicht/"> Helmut Schwichtenberg</a>  
+<a href="https://www.mathematik.uni-muenchen.de/~wessel/"> Daniel Misselbeck-Wessel</a>
 	
 <!--- 
 	
@@ -131,6 +178,9 @@ Elio La Rosa.  An intuitionistic epsilon calculus.
 Eduardo Skapinakis.
   (Doktorand bei Isabel Oitavem, jetzt in Tübingen)
   Eduardo Skapinakis <e.scapinakis@campus.fct.unl.pt>
+
+
+
 
 Weitere Teilnehmer, einige eventuell mit Vortrag
 ================================================
