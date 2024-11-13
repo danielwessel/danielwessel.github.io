@@ -29,27 +29,39 @@ Theresienstraße 39, Room B 349
 
 **Friday, 29 November**
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Speaker**: *Title*
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch break
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
+
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-19:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+
+19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
 
 <br>
 
 **Saturday, 30 November**
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+
+hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
@@ -135,6 +147,9 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 <a href="https://www.pension-josefine.de"> Pension Josefine</a> (Nordendstraße 13)  
 <a href="https://www.antares-muenchen.de/"> Hotel Antares</a> (Amalienstraße 20)  
 
+<!--- 
+
+
 <br>
 
 <h3> Local Organizers </h3>
@@ -142,7 +157,8 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 <a href="https://www.mathematik.uni-muenchen.de/~schwicht/"> Helmut Schwichtenberg</a>  
 <a href="https://www.mathematik.uni-muenchen.de/~wessel/"> Daniel Misselbeck-Wessel</a>
 	
-<!--- 
+
+
 	
 Angemeldet haben sich bisher:
 
