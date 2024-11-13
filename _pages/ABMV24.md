@@ -43,7 +43,7 @@ hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
 hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
+19:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
 
 <br>
 
