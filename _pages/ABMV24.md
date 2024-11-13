@@ -147,6 +147,9 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 <a href="https://www.pension-josefine.de"> Pension Josefine</a> (Nordendstraße 13)  
 <a href="https://www.antares-muenchen.de/"> Hotel Antares</a> (Amalienstraße 20)  
 
+<br>
+
+
 <!--- 
 
 
