@@ -5,4 +5,14 @@ permalink: /ABMV24/
 
 ---
 
-<h1>Arbeitstagung Bern München Verona 2024</h1>
+
+<br>
+
+<h2>Arbeitstagung Bern-München-Verona 2024</h2>
+
+<br>
+
+**Thursday, 28 November**
+
+
+19:00 
