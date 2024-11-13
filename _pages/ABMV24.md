@@ -10,9 +10,16 @@ permalink: /ABMV24/
 
 <h2>Arbeitstagung Bern&ndash;München&ndash;Verona 2024</h2>
 
+29&ndash;30 November 2024  
+
+Mathematisches Institut der LMU München  
+Theresienstraße 39, Room B 349 
+
 <br>
 
 <h3> Schedule </h3>
+
+<br>
 
 **Thursday, 28 November**
 
@@ -55,6 +62,8 @@ hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
 <h3> Abstracts </h3>
 	
+<br>
+
 **Giulio Fellin** (University of Brescia)  
 *Conservation for nuclei over substructural entailment relations*
 
@@ -69,6 +78,8 @@ show that while the absence of weakening or contraction has
 minimal impact; the absence of the exchange rule introduces
 significant and nontrivial distinctions.  This is a joint work
 with Tarmo Uustalu and Cheng-Syuan Wan.</pr>
+
+<br>
 
 **Gerhard Jäger** (University of Bern)  
 *Explicit Mathematics: Universes and Ordinals*
