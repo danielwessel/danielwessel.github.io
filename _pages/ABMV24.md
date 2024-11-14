@@ -29,27 +29,27 @@ Theresienstraße 39, Room B 349
 
 **Friday, 29 November**
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
+10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch break
+12:30 &ndash; 14:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch break
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+14:00 &ndash; 14:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+14:45 &ndash; 15:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
+15:30 &ndash; 16:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+16:00 &ndash; 16:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+16:45 &ndash; 17:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
 19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
 
@@ -57,15 +57,15 @@ hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
 **Saturday, 30 November**
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
+10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
-hh:mm &ndash; hh:mm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
 
 <br>
 
@@ -130,7 +130,22 @@ In [1], we provided a method for eliminating cuts in non-wellfounded proofs with
 *Higher-Level Natural Deduction and Subformula Property for Kreisel-Putnam Logic*
 
 <pr>
-We introduce a new natural deduction system for Kreisel-Putnam logic. Our system is based on Schroeder-Heister's calculus of higher-level rules, an extension of ordinary natural deduction in which not only formulas, but also rules can act as assumptions that may be discharged in the course of a derivation. We will establish a normalization theorem, i.e., we will show that every deduction in our system can be converted into a deduction without "detours". The method used for this is new and might also be applied to other non-classical logics. As a consequence of this result, we will obtain an unrestricted subformula property and a separation theorem for our system. </pr>
+We introduce a new natural deduction system for Kreisel-Putnam logic. Our system is based on Schroeder-Heister's calculus of higher-level rules, an extension of ordinary natural deduction in which not only formulas, but also rules can act as assumptions that may be discharged in the course of a derivation. We will establish a normalization theorem, i.e., we will show that every deduction in our system can be converted into a deduction without "detours". The method used for this is new and might also be applied to other non-classical logics. As a consequence of this result, we will obtain an unrestricted subformula property and a separation theorem for our system. </pr>s
+
+<br>
+
+**Iosif Petrakis** (University of Verona)
+*tba*
+
+<pr> tba </pr>
+
+<br>
+
+
+**Eduardo Skapinakis** (University of T\"ubingen)  
+*A recursion-theoretic characterization of monotone NP*
+
+Part of the research in circuit complexity since the 1970s has been devoted to proving lower bounds in restricted circuit classes. A famous example is Razborov's lower bound for monotone circuits, where only AND and OR gates are allowed. To give a unified theory of monotone computation, Grigni and Sipser extended the notion of monotonicity beyond circuits and defined monotone non-deterministic Turing machines. These are non-deterministic Turing machines which are monotone on their input tape, but are allowed to perform negative operations on their work tapes and non-deterministically generated bits. Under this formalism, Razborov's result can be stated as "monotone P is strictly contained in monotone NP". In this talk, I will introduce a new computational model of monotone non-determinism, where only monotone operations are allowed, and show that, with polynomial time bounds, one still obtains Grigni and Sipser's monotone NP. Based on this model, I will present a characterization of monotone NP as the closure of a set of basic functions under three operators.
 
 <br>
 
