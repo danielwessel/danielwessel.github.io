@@ -148,7 +148,7 @@ We introduce a new natural deduction system for Kreisel-Putnam logic. Our system
 <br>
 
 
-**Eduardo Skapinakis** (University of T\"ubingen)  
+**Eduardo Skapinakis** (University of Tübingen)  
 *A recursion-theoretic characterization of monotone NP*
 
 Part of the research in circuit complexity since the 1970s has been devoted to proving lower bounds in restricted circuit classes. A famous example is Razborov's lower bound for monotone circuits, where only AND and OR gates are allowed. To give a unified theory of monotone computation, Grigni and Sipser extended the notion of monotonicity beyond circuits and defined monotone non-deterministic Turing machines. These are non-deterministic Turing machines which are monotone on their input tape, but are allowed to perform negative operations on their work tapes and non-deterministically generated bits. Under this formalism, Razborov's result can be stated as "monotone P is strictly contained in monotone NP". In this talk, I will introduce a new computational model of monotone non-determinism, where only monotone operations are allowed, and show that, with polynomial time bounds, one still obtains Grigni and Sipser's monotone NP. Based on this model, I will present a characterization of monotone NP as the closure of a set of basic functions under three operators.
