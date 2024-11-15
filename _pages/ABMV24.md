@@ -76,7 +76,7 @@ Theresienstraße 39, Room B 349
 	
 <br>
 
-**Ingo Blechschmidt** (Augsburg/Padova)  
+**Ingo Blechschmidt** (University of Antwerp)  
 *Modal operators for a constructive account of quasi-well-orderings*
 
 <pr> tba </pr>
@@ -130,9 +130,15 @@ In [1], we provided a method for eliminating cuts in non-wellfounded proofs with
 *Higher-Level Natural Deduction and Subformula Property for Kreisel-Putnam Logic*
 
 <pr>
-We introduce a new natural deduction system for Kreisel-Putnam logic. Our system is based on Schroeder-Heister's calculus of higher-level rules, an extension of ordinary natural deduction in which not only formulas, but also rules can act as assumptions that may be discharged in the course of a derivation. We will establish a normalization theorem, i.e., we will show that every deduction in our system can be converted into a deduction without "detours". The method used for this is new and might also be applied to other non-classical logics. As a consequence of this result, we will obtain an unrestricted subformula property and a separation theorem for our system. </pr>s
+We introduce a new natural deduction system for Kreisel-Putnam logic. Our system is based on Schroeder-Heister's calculus of higher-level rules, an extension of ordinary natural deduction in which not only formulas, but also rules can act as assumptions that may be discharged in the course of a derivation. We will establish a normalization theorem, i.e., we will show that every deduction in our system can be converted into a deduction without "detours". The method used for this is new and might also be applied to other non-classical logics. As a consequence of this result, we will obtain an unrestricted subformula property and a separation theorem for our system. </pr>
 
 <br>
+
+**Takako Nemoto** (Tohoku University)  
+*tba*
+
+<br>
+
 
 **Iosif Petrakis** (University of Verona)
 *tba*
@@ -165,16 +171,15 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 <br>
 
 
-<!--- 
-
-
-<br>
-
 <h3> Local Organizers </h3>
 	
 <a href="https://www.mathematik.uni-muenchen.de/~schwicht/"> Helmut Schwichtenberg</a>  
 <a href="https://www.mathematik.uni-muenchen.de/~wessel/"> Daniel Misselbeck-Wessel</a>
 	
+<br>
+
+<!--- 
+
 
 
 	
