@@ -17,7 +17,7 @@ Theresienstraße 39, Room B 349
 
 <br>
 
-<h3> Programme </h3>
+<h3> Programme (tbd) </h3>
 
 <br>
 
@@ -123,15 +123,6 @@ Technical-practical limits of today's computers and AI depend on the theoretical
 
 References: K. Mainzer, *The Digital and the Real World. Computational Foundations of Mathematics, Science, Technology, and Philosophy,* World Scientific Singapore 2018; K. Mainzer, *Artificial Intelligence. When do Machines take over?* Springer: Berlin 2nd edition 2019 (Chinese: Tsinghua University Press: Beijing 2022); K. Mainzer, R. Kahle, *Limits of AI – theoretical, practical, ethical*, Springer: Berlin 2024 (German: Springer: Berlin 2022); K. Mainzer, *Artificial Intelligence of Neuromorphic Systems*, World Scientific Singapore 2024; K. Mainzer, P. Schuster, H. Schwichtenberg (eds.), *Proof and Computation I-II*, World Scientific Singapore 2018-2022.
 
-<br>
-
-**Borja Sierra Miranda** (University of Bern)  
-*Cut elimination for a non-wellfounded system for the master modality*
-
-<pr>
-In [1], we provided a method for eliminating cuts in non-wellfounded proofs with a local-progress condition, these being the simplest kind of non-wellfounded proofs. The method consisted of splitting the proof into nicely behaved fragments. This paper extends our method to proofs based on simple trace conditions. The main idea is to split the system with the trace condition into infinitely many local-progress calculi that together are equivalent to the original trace-based system. This provides a cut-elimination method using only basic tools of structural proof theory and corecursion, which is needed due to working in a non-wellfounded setting. We will employ our method to obtain syntactic cut-elimination for K+, a system of modal logic with the master modality. </pr>
-
-[1]: Borja Sierra Miranda, Thomas Studer and Lukas Zenger. "Coalgebraic Proof Translations of Non-Wellfounded Proofs". In Agata Ciabattoni, David Gabelaia and Igor Sedlár (eds). (2024) Advances in Modal Logic, Vol. 15. College Publications.
 
 
 <br>
@@ -157,6 +148,15 @@ We introduce a new natural deduction system for Kreisel-Putnam logic. Our system
 
 <br>
 
+**Borja Sierra-Miranda** (University of Bern)  
+*Cut elimination for a non-wellfounded system for the master modality*
+
+<pr>
+In [1], we provided a method for eliminating cuts in non-wellfounded proofs with a local-progress condition, these being the simplest kind of non-wellfounded proofs. The method consisted of splitting the proof into nicely behaved fragments. This paper extends our method to proofs based on simple trace conditions. The main idea is to split the system with the trace condition into infinitely many local-progress calculi that together are equivalent to the original trace-based system. This provides a cut-elimination method using only basic tools of structural proof theory and corecursion, which is needed due to working in a non-wellfounded setting. We will employ our method to obtain syntactic cut-elimination for K+, a system of modal logic with the master modality. </pr>
+
+[1]: Borja Sierra Miranda, Thomas Studer and Lukas Zenger. "Coalgebraic Proof Translations of Non-Wellfounded Proofs". In Agata Ciabattoni, David Gabelaia and Igor Sedlár (eds). (2024) Advances in Modal Logic, Vol. 15. College Publications.
+
+<br>
 
 **Eduardo Skapinakis** (University of Tübingen)  
 *A recursion-theoretic characterization of monotone NP*
@@ -174,7 +174,11 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 <br>
 
 **Franziskus Wiesnet** (TU Wien)  
-*tba*
+*Material Interpretation - A Case Study*
+
+<pr>
+We explore the constructive characterization of all maximal ideals in &#8484;[X], which serves as a case study for the concept of the "Material Interpretation." Starting with a classical proof, we demonstrate how it can be transformed into a constructive proof, potentially leading to stronger statements. The Material Interpretation provides an alternative proof interpretation, transforming statements of the form "A implies B" into "not A or B," where "not A" represents a constructively stronger form of the negation of A.  
+We will discuss the theoretical foundations of this approach as well as its formalization in the proof assistant Agda, which is still a work in progress. Furtheremore we highlight Agda's capabilities for automating the Material Interpretation and share improvements to its library through the addition of valuable theorems.</pr>
 
 <br>
 
