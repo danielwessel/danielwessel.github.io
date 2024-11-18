@@ -173,6 +173,11 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 
 <br>
 
+**Franziskus Wiesnet** (TU Wien)  
+*tba*
+
+<br>
+
 
 <h3> Accommodation </h3>
 	
