@@ -177,8 +177,9 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 *Material Interpretation - A Case Study*
 
 <pr>
-We explore the constructive characterization of all maximal ideals in &#8484;[X], which serves as a case study for the concept of the "Material Interpretation." Starting with a classical proof, we demonstrate how it can be transformed into a constructive proof, potentially leading to stronger statements. The Material Interpretation provides an alternative proof interpretation, transforming statements of the form "A implies B" into "not A or B," where "not A" represents a constructively stronger form of the negation of A.  
-We will discuss the theoretical foundations of this approach as well as its formalization in the proof assistant Agda, which is still a work in progress. Furtheremore we highlight Agda's capabilities for automating the Material Interpretation and share improvements to its library through the addition of valuable theorems.</pr>
+We explore the constructive characterization of all maximal ideals in &#8484;[X], which serves as a case study for the concept of the "Material Interpretation". Starting with a classical proof, we demonstrate how it can be transformed into a constructive proof, potentially leading to stronger statements. The Material Interpretation provides an alternative proof interpretation, transforming statements of the form A &rarr; B into &#172;A &#8744; B, where &#172;A represents a constructively stronger form of the negation of A.
+
+We will discuss the theoretical foundations of this approach as well as its formalization in the proof assistant Agda, which is still a work in progress. Furthermore we highlight Agda's capabilities for automating the Material Interpretation and share improvements to its library through the addition of valuable theorems.</pr>
 
 <br>
 
