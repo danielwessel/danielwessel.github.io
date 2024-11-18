@@ -29,9 +29,9 @@ Theresienstraße 39, Room B 349
 
 **Friday, 29 November**
 
-09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Klaus Mainzer**: From Computing to AI. Logical, Mathematical, Technical, and Philosophical Foundations
 
-09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Gerhard Jäger**: Explicit Mathematics: Universes and Ordinals
 
 10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
@@ -115,6 +115,16 @@ We show how an ordering of specific universes may lead to a sort of ordinals. Af
 
 <br>
 
+**Klaus Mainzer** (TUM, CFvWZ Center)  
+*From Computing to AI. Logical, Mathematical, Technical, and Philosophical Foundations*
+
+<pr> 
+Technical-practical limits of today's computers and AI depend on the theoretical foundation of digital computability. On the basis of digital computability, symbolic AI was initially oriented towards the logical reasoning of symbolic logic. Statistical learning from big data led to machine learning, which dominates the techno-economic breakthroughs of AI today. Some limits of digital computability, decidability and solvability of problems can be theoretically overcome beyond Turing computability with real computing. Novel analog computer architectures orientated towards the human brain enable its technical-practical realization. An extension to hybrid AI is requested for, combining digital, analog and real computing in neuromorphic computing structures. These tendencies of research and innovation demonstrate that we need more integrated research in the foundations of logic, mathematics, physics, engineering sciences, cognitive science, and philosophy.</pr>
+
+References: K. Mainzer, *The Digital and the Real World. Computational Foundations of Mathematics, Science, Technology, and Philosophy,* World Scientific Singapore 2018; K. Mainzer, *Artificial Intelligence. When do Machines take over?* Springer: Berlin 2nd edition 2019 (Chinese: Tsinghua University Press: Beijing 2022); K. Mainzer, R. Kahle, *Limits of AI – theoretical, practical, ethical*, Springer: Berlin 2024 (German: Springer: Berlin 2022); K. Mainzer, *Artificial Intelligence of Neuromorphic Systems*, World Scientific Singapore 2024; K. Mainzer, P. Schuster, H. Schwichtenberg (eds.), *Proof and Computation I-II*, World Scientific Singapore 2018-2022.
+
+<br>
+
 **Borja Sierra Miranda** (University of Bern)  
 *Cut elimination for a non-wellfounded system for the master modality*
 
@@ -163,6 +173,7 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 
 <br>
 
+
 <h3> Accommodation </h3>
 	
 <a href="https://www.pension-josefine.de"> Pension Josefine</a> (Nordendstraße 13)  
@@ -171,13 +182,16 @@ Simplicial models originated in distributed computing, serving as a tool to stud
 <br>
 
 
-<h3> Local Organizers </h3>
+<h3> Contact </h3>
 	
 <a href="https://www.mathematik.uni-muenchen.de/~schwicht/"> Helmut Schwichtenberg</a>  
 <a href="https://www.mathematik.uni-muenchen.de/~wessel/"> Daniel Misselbeck-Wessel</a>
 	
-<br>
+<br><br><br>
 
+
+
+*Last modified: Monday, 18 November 2024*
 <!--- 
 
 
