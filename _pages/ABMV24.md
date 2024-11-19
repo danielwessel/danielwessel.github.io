@@ -87,16 +87,7 @@ Theresienstraße 39, Room B 349
 *Conservation for nuclei over substructural entailment relations*
 
 <pr>
-Glivenko’s theorem has been studied in an abstract setting, where
-double negation is replaced by arbitrary nuclei, and classical
-and intuitionistic propositional logics are generalised to
-abstract entailment relations. This paper extends that framework
-to substructural logics, focusing on cases where structural rules
-such as weakening, contraction, and exchange are restricted. We
-show that while the absence of weakening or contraction has
-minimal impact; the absence of the exchange rule introduces
-significant and nontrivial distinctions.  This is a joint work
-with Tarmo Uustalu and Cheng-Syuan Wan.</pr>
+Glivenko’s theorem has been studied in an abstract setting, where double negation is replaced by arbitrary nuclei, and classical and intuitionistic propositional logics are generalised to abstract entailment relations. This paper extends that framework to substructural logics, focusing on cases where structural rules such as weakening, contraction, and exchange are restricted. We show that while the absence of weakening or contraction has minimal impact; the absence of the exchange rule introduces significant and nontrivial distinctions.  This is a joint work with Tarmo Uustalu and Cheng-Syuan Wan.</pr>
 
 <br>
 
@@ -202,86 +193,3 @@ We will discuss the theoretical foundations of this approach as well as its form
 
 
 *Last modified: Monday, 18 November 2024*
-<!--- 
-
-
-
-	
-Angemeldet haben sich bisher:
-
-Voraussichtlich mit Vortrag
-==========================
-
-Ingo Blechschmidt.  Modal operators for a constructive account of
-                    quasi-well-orderings
-  Ingo Blechschmidt <iblech@speicherleck.de>
-
-Giulio Fellin.  Construction for nuclei over substructural entailment
-                relations
-  Giulio Fellin <giulio.fellin@univr.it>
-
-Luis Gambarte.
-  gambarte@math.lmu.de
-
-Gerhard Jäger.
-  Gerhard Jaeger <gjaeger.bern@gmail.com>
-
-Nils Köpp.
-  koepp@math.lmu de
-
-Klaus Mainzer.
-  mainzer@tum.de
-
-Iosif Petrakis.
-  iosif.petrakis@univr.it
- 
-Elio La Rosa.  An intuitionistic epsilon calculus.
-  Elio La Rosa <lrslei@gmail.com>
-
-Eduardo Skapinakis.
-  (Doktorand bei Isabel Oitavem, jetzt in Tübingen)
-  Eduardo Skapinakis <e.scapinakis@campus.fct.unl.pt>
-
-
-
-
-Weitere Teilnehmer, einige eventuell mit Vortrag
-================================================
-	
-Edi Pavlovic.
-  Edi.Pavlovic@lrz.uni-muenchen.de
-
-Peter Schuster
-
-Helmut Schwichtenberg
-
-Thomas Studer
-   <thomas.studer@unibe.ch>
-
-Sebastijan Horvat (Gast in Bern, aus Zagreb)
-
-Borja Sierra Miranda (Forschungsgruppe Thomas Studer in Bern)
-
-Armand Feuilleaubois (Forschungsgruppe Thomas Studer in Bern)
-
-Valentin Müller (Forschungsgruppe Thomas Studer in Bern)
-
-
-Giulio Fellin (University of Brescia),
-
-“Conservation for nuclei over substructural entailment relations”
-
-Glivenko’s theorem has been studied in an abstract setting, where
-double negation is replaced by arbitrary nuclei, and classical
-and intuitionistic propositional logics are generalised to
-abstract entailment relations. This paper extends that framework
-to substructural logics, focusing on cases where structural rules
-such as weakening, contraction, and exchange are restricted. We
-show that while the absence of weakening or contraction has
-minimal impact; the absence of the exchange rule introduces
-significant and nontrivial distinctions.  This is a joint work
-with Tarmo Uustalu and Cheng-Syuan Wan.
-	
-https://bit.ly/3AENbXg
-	
- --->
