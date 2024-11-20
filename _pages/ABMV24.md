@@ -17,7 +17,7 @@ Theresienstraße 39, Room B 349
 
 <br>
 
-<h3> Programme (tbd) </h3>
+<h3> Preliminary Programme </h3>
 
 <br>
 
@@ -35,21 +35,21 @@ Theresienstraße 39, Room B 349
 
 10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Takako Nemoto**: tba
 
-11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Thomas Studer**: Simplicial Models for Epistemic Logic
 
 12:30 &ndash; 14:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch break
 
-14:00 &ndash; 14:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+14:00 &ndash; 14:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Valentin Müller**: Higher-Level Natural Deduction and Subformula Property for Kreisel-Putnam Logic
 
-14:45 &ndash; 15:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+14:45 &ndash; 15:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Borja Sierra-Miranda**: Cut elimination for a non-wellfounded system for the master modality
 
 15:30 &ndash; 16:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-16:00 &ndash; 16:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+16:00 &ndash; 16:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Elio La Rosa**: An intuitionistic epsilon calculus
 
-16:45 &ndash; 17:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+16:45 &ndash; 17:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Eduardo Skapinakis**: A recursion-theoretic characterization of monotone NP
 
 19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
 
@@ -57,15 +57,15 @@ Theresienstraße 39, Room B 349
 
 **Saturday, 30 November**
 
-09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Iosif Petrakis**: Apart algebras
 
-09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ingo Blechschmidt**: Modal operators for a constructive account of quasi-well-orderings
 
 10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Franziskus Wiesnet**: Material Interpretation - A Case Study
 
-11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speaker: Title
+11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Giulio Fellin**: Conservation for nuclei over substructural entailment relations
 
 <br>
 
@@ -95,7 +95,7 @@ Glivenko’s theorem has been studied in an abstract setting, where double negat
 *Explicit Mathematics: Universes and Ordinals*
 
 <pr>
-We show how an ordering of specific universes may lead to a sort of ordinals. Afterwards present two ways how to extend Explicit Mathematics by ordinals in a natural and powerful way.</pr>
+We show how an ordering of specific universes may lead to a sort of ordinals. Afterwards we present two ways how to extend Explicit Mathematics by ordinals in a natural and powerful way.</pr>
 
 <br>
 
@@ -132,10 +132,10 @@ We introduce a new natural deduction system for Kreisel-Putnam logic. Our system
 <br>
 
 
-**Iosif Petrakis** (University of Verona)
-*tba*
+**Iosif Petrakis** (University of Verona)  
+*Apart algebras*
 
-<pr> tba </pr>
+<pr> Sambin and Ciraulo developed the theory of overlap algebras as an algebraic generalisation of the overlap relation between subsets. Overlap algebras correspond classically to complete Boolean algebras and intuitionistically to complete Heyting algebras. We introduce apart algebras as an algebraic generalisation of the apart relation between subsets. The duality between the overlap and the apart relation between subsets is extended to the duality between the theory of overlap and apart algebras. While overlap algebras induce a canonical positivity predicate and are formal topologies, apart algebras induce a canonical negativity predicate and are formal cotopologies. While the regular elements of an overlap topology form an overlap algebra, the coregular elements of an apart topology form an apart algebra. </pr>
 
 <br>
 
@@ -188,8 +188,8 @@ We will discuss the theoretical foundations of this approach as well as its form
 <a href="https://www.mathematik.uni-muenchen.de/~schwicht/"> Helmut Schwichtenberg</a>  
 <a href="https://www.mathematik.uni-muenchen.de/~wessel/"> Daniel Misselbeck-Wessel</a>
 	
-<br><br><br>
+<br>
 
 
 
-*Last modified: Monday, 18 November 2024*
+*Last modified: Wednesday, 20 November 2024*
