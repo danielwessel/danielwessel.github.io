@@ -17,7 +17,7 @@ Theresienstraße 39, Room B 349
 
 <br>
 
-<h3> Preliminary Programme </h3>
+<h3> Programme </h3>
 
 <br>
 
@@ -51,21 +51,25 @@ Theresienstraße 39, Room B 349
 
 16:45 &ndash; 17:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Eduardo Skapinakis**: A recursion-theoretic characterization of monotone NP
 
+17:30 &ndash; 18:15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Luis Gambarte**: tba
+
 19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
 
 <br>
 
 **Saturday, 30 November**
 
-09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Iosif Petrakis**: Apart algebras
+08:45 &ndash; 09:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Iosif Petrakis**: Apart algebras
 
-09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ingo Blechschmidt**: Modal operators for a constructive account of quasi-well-orderings
+09:30 &ndash; 10:15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ingo Blechschmidt**: Modal operators for a constructive account of quasi-well-orderings
 
-10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
+10:30 &ndash; 10:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Franziskus Wiesnet**: Material Interpretation - A Case Study
+10:45 &ndash; 11:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Franziskus Wiesnet**: Material Interpretation - A Case Study
 
-11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Giulio Fellin**: Conservation for nuclei over substructural entailment relations
+11:30 &ndash; 12:15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Giulio Fellin**: Conservation for nuclei over substructural entailment relations
+
+12:15 &ndash; 13:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Edi Pavlovic**: tba
 
 <br>
 
@@ -91,6 +95,11 @@ Glivenko’s theorem has been studied in an abstract setting, where double negat
 
 <br>
 
+**Luis Gambarte** (LMU Munich)  
+*tba*
+
+<br>
+
 **Gerhard Jäger** (University of Bern)  
 *Explicit Mathematics: Universes and Ordinals*
 
@@ -99,7 +108,7 @@ We show how an ordering of specific universes may lead to a sort of ordinals. Af
 
 <br>
 
-**Elio La Rosa** (MCMP)  
+**Elio La Rosa** (LMU Munich)  
 *An intuitionistic epsilon calculus*
 
 <pr> tba </pr>
@@ -131,6 +140,10 @@ We introduce a new natural deduction system for Kreisel-Putnam logic. Our system
 
 <br>
 
+**Edi Pavlovic** (LMU Munich)  
+*tba*
+
+<br>
 
 **Iosif Petrakis** (University of Verona)  
 *Apart algebras*
