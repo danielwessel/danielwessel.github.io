@@ -35,7 +35,7 @@ Theresienstraße 39, Room B 349
 
 10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Takako Nemoto**: tba
+11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Takako Nemoto**: (not weak) Konig's lemma and fan theorem
 
 11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Thomas Studer**: Simplicial Models for Epistemic Logic
 
@@ -51,7 +51,7 @@ Theresienstraße 39, Room B 349
 
 16:45 &ndash; 17:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Eduardo Skapinakis**: A recursion-theoretic characterization of monotone NP
 
-17:30 &ndash; 18:15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Luis Gambarte**: tba
+17:30 &ndash; 18:15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Luis Gambarte**: Categorical constructions on computability models
 
 19:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dinner at <a href="https://www.losfaroles.de/"> Los Faroles</a>, Nordendstraße 26
 
@@ -96,7 +96,10 @@ Glivenko’s theorem has been studied in an abstract setting, where double negat
 <br>
 
 **Luis Gambarte** (LMU Munich)  
-*tba*
+*Categorical constructions on computability models*
+
+<pr>
+The notion of a computability model was introduced by Longley as a way to abstract different concepts in theoretical computer science and logic like typed partial combinatory algebras or &lambda;-calculus. We explore the existence (or lack thereof) of standard categorical constructions in the category of these computability models and compare them to the same constructions in related categories. Furthermore we give a brief exposition of categories with computability bases and how they can be related to computability models.</pr>
 
 <br>
 
@@ -136,7 +139,18 @@ We introduce a new natural deduction system for Kreisel-Putnam logic. Our system
 <br>
 
 **Takako Nemoto** (Tohoku University)  
-*tba*
+*(not weak) Konig's lemma and fan theorem*
+
+<pr>
+In [1], it is proved that weak Konig's lemma with uniqueness condition WKL!
+is equivalent to the decidable binary fan theorem.
+Analogously, we can prove that KL! implies the decidable (non-binary) fan
+theorem, but the converse seems difficult.
+In this talk, we will show these analogy and difficulty, and related
+principles.
+
+[1] Josef Berger and Hajime Ishihara. Brouwer's fan theorem and unique
+existence in constructive analysis. Math. Log. Quart., 51(4):360–364, 2005. </pr>
 
 <br>
 
