@@ -69,7 +69,7 @@ Theresienstraße 39, Room B 349
 
 11:30 &ndash; 12:15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Giulio Fellin**: Conservation for nuclei over substructural entailment relations
 
-12:15 &ndash; 13:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Edi Pavlovic**: tba
+12:15 &ndash; 13:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Edi Pavlovic**: Free Logics: Variants and Unification
 
 <br>
 
@@ -155,7 +155,14 @@ existence in constructive analysis. Math. Log. Quart., 51(4):360–364, 2005. </
 <br>
 
 **Edi Pavlovic** (LMU Munich)  
-*tba*
+*Free Logics: Variants and Unification* (jww Norbert Gratzl)
+
+<pr>
+Present work is a part of an ongoing project to offer, using proof-theoretic means, an orderly examination of the various systems of free logics and their mutual relations.
+
+Free logics are a family of first-order logics which came about as a result of examining the existence assumptions of classical logic. They specifically reject the claim that every name needs to denote an object. Of the three major variants, positive free logic concedes that some atomic formulas containing non-denoting names (including at least self-identity) are true, negative free logic treats them as uniformly false, and neutral free logic as taking a third value (with further sub-variants depending on the interpretation of that third value).
+
+These various logics also have complex and varied axiomatizations and semantics, but are more easily brought into a unified framework using the methods of proof theory. We present these systems for all three variants, discuss their properties and examine applications of those.</pr>
 
 <br>
 
@@ -219,4 +226,4 @@ We will discuss the theoretical foundations of this approach as well as its form
 
 
 
-*Last modified: Friday, 22 November 2024*
+*Last modified: Monday, 25 November 2024*
