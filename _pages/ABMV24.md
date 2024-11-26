@@ -47,7 +47,7 @@ Theresienstraße 39, Room B 349
 
 15:30 &ndash; 16:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-16:00 &ndash; 16:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Elio La Rosa**: An intuitionistic epsilon calculus
+16:00 &ndash; 16:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Elio La Rosa**: Epsilon Terms and Lambda Binders
 
 16:45 &ndash; 17:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Eduardo Skapinakis**: A recursion-theoretic characterization of monotone NP
 
@@ -112,9 +112,10 @@ We show how an ordering of specific universes may lead to a sort of ordinals. Af
 <br>
 
 **Elio La Rosa** (LMU Munich)  
-*An intuitionistic epsilon calculus*
+*Epsilon Terms and Lambda Binders*
 
-<pr> tba </pr>
+<pr>
+Hilbert's epsilon terms are strictly more expressive than first-order quantifiers. This is because the formula in the scope of the epsilon operator denotes the extension from which a witness, if any, is chosen from. On the other hand, epsilon terms cannot unambiguously replicate quantifiers' scoping mechanism. This is because, being terms, they only occur in the atoms of a language. As a result, when added to Intuitionistic logic, epsilon terms are not conservative over Intuitionistic quantifiers, which are sensible to quantifiers shifts. Similarly, it is hard to define analytic rules handling epsilon terms, since there is no direct way to single out newly introduced terms in a sequent. In this talk, I extend the language of epsilon calculus by lambda binders. In one of his earliest papers, Melvin Fitting uses such a language with modalities to develop an S4 extension of epsilon calculus. I show that this approach results in an overlooked extension of the S4 embedding of Intuitionistic logic with epsilon terms which is conservative over Intuitionistic quantification. In this case, lambdas are treated as predicate abstraction operators. I show that this approach is not enough for defining analytic rules, where it seems that lambda binders should subsume the epsilon ones as well.</pr>
 
 <br>
 
@@ -226,4 +227,4 @@ We will discuss the theoretical foundations of this approach as well as its form
 
 
 
-*Last modified: Monday, 25 November 2024*
+*Last update: Tuesday, 26 November 2024*
