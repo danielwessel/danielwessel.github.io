@@ -59,22 +59,20 @@ Theresienstraße 39, Room B 349
 
 **Saturday, 30 November**
 
-08:45 &ndash; 09:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Iosif Petrakis**: Apart algebras
+09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Iosif Petrakis**: Apart algebras
 
-09:30 &ndash; 10:15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ingo Blechschmidt**: Modal operators for a constructive account of quasi-well-orderings
+09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ingo Blechschmidt**: Modal operators for a constructive account of quasi-well-orderings
 
-10:30 &ndash; 10:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
+10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-10:45 &ndash; 11:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Franziskus Wiesnet**: Material Interpretation - A Case Study
+11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Franziskus Wiesnet**: Material Interpretation - A Case Study
 
-11:30 &ndash; 12:15 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Giulio Fellin**: Conservation for nuclei over substructural entailment relations
-
-12:15 &ndash; 13:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Edi Pavlovic**: Free Logics: Variants and Unification
+11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Giulio Fellin**: Conservation for nuclei over substructural entailment relations
 
 <br>
 
 
-<br>
+
 
 <h3> Abstracts </h3>
 	
@@ -155,18 +153,6 @@ existence in constructive analysis. Math. Log. Quart., 51(4):360–364, 2005. </
 
 <br>
 
-**Edi Pavlovic** (LMU Munich)  
-*Free Logics: Variants and Unification* (jww Norbert Gratzl)
-
-<pr>
-Present work is a part of an ongoing project to offer, using proof-theoretic means, an orderly examination of the various systems of free logics and their mutual relations.
-
-Free logics are a family of first-order logics which came about as a result of examining the existence assumptions of classical logic. They specifically reject the claim that every name needs to denote an object. Of the three major variants, positive free logic concedes that some atomic formulas containing non-denoting names (including at least self-identity) are true, negative free logic treats them as uniformly false, and neutral free logic as taking a third value (with further sub-variants depending on the interpretation of that third value).
-
-These various logics also have complex and varied axiomatizations and semantics, but are more easily brought into a unified framework using the methods of proof theory. We present these systems for all three variants, discuss their properties and examine applications of those.</pr>
-
-<br>
-
 **Iosif Petrakis** (University of Verona)  
 *Apart algebras*
 
@@ -227,4 +213,4 @@ We will discuss the theoretical foundations of this approach as well as its form
 
 
 
-*Last update: Tuesday, 26 November 2024*
+*Last update: Wednesday, 27 November 2024*
