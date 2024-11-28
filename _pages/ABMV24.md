@@ -65,7 +65,7 @@ Theresienstraße 39, Room B 349
 
 10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
-11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Franziskus Wiesnet**: Material Interpretation - A Case Study
+11:00 &ndash; 11:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Franziskus Wiesnet**: Material Interpretation &ndash; A Case Study
 
 11:45 &ndash; 12:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Giulio Fellin**: Conservation for nuclei over substructural entailment relations
 
@@ -177,7 +177,7 @@ existence in constructive analysis. Math. Log. Quart., 51(4):360–364, 2005. </
 <br>
 
 **Franziskus Wiesnet** (TU Wien)  
-*Material Interpretation - A Case Study*
+*Material Interpretation &ndash; A Case Study*
 
 <pr>We explore the constructive characterization of all maximal ideals in &#8484;[X], which serves as a case study for the concept of the "Material Interpretation". Starting with a classical proof, we demonstrate how it can be transformed into a constructive proof, potentially leading to stronger statements. The Material Interpretation provides an alternative proof interpretation, transforming statements of the form A &rarr; B into &#172;A &#8744; B, where &#172;A represents a constructively stronger form of the negation of A.
 
