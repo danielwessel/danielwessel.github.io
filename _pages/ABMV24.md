@@ -79,9 +79,9 @@ Theresienstraße 39, Room B 349
 <br>
 
 **Ingo Blechschmidt** (University of Antwerp)  
-*Modal operators for a constructive account of well-quasi-orderings*
+*Modal operators for a constructive account of well quasi-orders*
 
-<pr>Well-quasi-orderings are a combinatorial notion with featureful applications in graph theory, termination checking, commutative algebra and other subjects. However, their classical definition, though concise and elegant, poses significant challenges in constructive mathematics and frameworks that lack function sets. In response, several constructive substitutes have been developed, most recently an implicational definition by Stefano Berardi, Gabriele Buriola and Peter Schuster. In this talk, we investigate how a modal approach can reinterpret classical proofs involving transfinite methods as constructive blueprints grounded in these alternatives, thereby combining the best of both worlds: Short and abstract proofs, but with constructive content. We also indicate how the modal approach allows us to compare the implicational definition with an earlier inductive one.</pr>
+<pr>Well quasi-orders are a combinatorial notion with featureful applications in graph theory, termination checking, commutative algebra and other subjects. However, their classical definition, though concise and elegant, poses significant challenges in constructive mathematics and frameworks that lack function sets. In response, several constructive substitutes have been developed, most recently an implicational definition by Stefano Berardi, Gabriele Buriola and Peter Schuster. In this talk, we investigate how a modal approach can reinterpret classical proofs involving transfinite methods as blueprints for constructive proofs grounded in these alternatives, thereby combining the best of both worlds: Short and abstract proofs, but with constructive content. We also indicate how the modal approach allows us to compare the implicational definition with an earlier inductive one. <a href="https://www.speicherleck.de/iblech/stuff/slides-abmv2024.pdf">Annotated slides available.</a></pr>
 
 <br>
 
