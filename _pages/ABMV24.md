@@ -61,7 +61,7 @@ Theresienstraße 39, Room B 349
 
 09:00 &ndash; 09:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Iosif Petrakis**: Apart algebras
 
-09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ingo Blechschmidt**: Modal operators for a constructive account of well-quasi-orderings
+09:45 &ndash; 10:30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Ingo Blechschmidt**: Modal operators for a constructive account of well-quasi-orders
 
 10:30 &ndash; 11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffee break
 
