@@ -33,7 +33,7 @@ As of 1 October 2025, I will be a DFG Fellow at the <a href="https://www.mcmp.ph
 In the academic year 2023/24 I will be fellow at the Alfried Krupp Institute for Advanced Study, 
 aiming to reignite research on Gentzen's *Nachlass*.-->
 
-Reach out to me through wessel@math.lmu.
+Feel free to get in touch: wessel@math.lmu.de
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
