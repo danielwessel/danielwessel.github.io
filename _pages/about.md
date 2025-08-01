@@ -16,13 +16,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there! Thank you for visiting this website.
+Hi there! Thanks for stopping by.
 
-I am a mathematician based in Munich, with research interests in constructive maths, point-free topology, and proof theory.
+I'm a mathematician based in Munich, with research interests in constructive mathematics, point-free topology, and proof theory.
 
-Currently, I'm Postdoc at the <a href="https://www.mathematik.uni-muenchen.de/~wessel/" target="_blank">Mathematical Institute of LMU</a>.
+At the moment, I'm a Postdoctoral Researcher at the <a href="https://www.mathematik.uni-muenchen.de/~wessel/" target="_blank">Mathematical Institute of LMU Munich</a>.
 In 2023/24 I was fellow at the <a href="https://www.wiko-greifswald.de/fellows/alfried-krupp-fellows-programm/fellows-finden/2023-2024/misselbeck-wessel-daniel-phd/" target="_blank">Alfried Krupp Institute for Advanced Study</a>, 
 and guest lecturer at the University of Greifswald's Faculty of Arts and Humanities.
+
+As of 1 October 2025, I will be a DFG Fellow at the <a href="https://www.mcmp.philosophie.uni-muenchen.de/index.html" target="_blank">Munich Center for Mathematical Philosophy (MCMP)</a>.
 
 
 
