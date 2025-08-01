@@ -24,7 +24,7 @@ At the moment, I'm a Postdoctoral Researcher at the <a href="https://www.mathema
 In 2023/24 I was fellow at the <a href="https://www.wiko-greifswald.de/fellows/alfried-krupp-fellows-programm/fellows-finden/2023-2024/misselbeck-wessel-daniel-phd/" target="_blank">Alfried Krupp Institute for Advanced Study</a>, 
 and guest lecturer at the University of Greifswald's Faculty of Arts and Humanities.
 
-As of 1 October 2025, I will be a DFG Fellow at the <a href="https://www.mcmp.philosophie.uni-muenchen.de/index.html" target="_blank">Munich Center for Mathematical Philosophy (MCMP)</a>.
+As of 1 October 2025, I will be a DFG Fellow at the Munich Center for Mathematical Philosophy <a href="https://www.mcmp.philosophie.uni-muenchen.de/index.html" target="_blank">(MCMP)</a>.
 
 
 
