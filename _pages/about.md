@@ -6,7 +6,7 @@ subtitle: <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1219983" tar
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Wessel_AKWG.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
